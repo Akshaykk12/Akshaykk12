@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshaykk12
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Blockchain Technology
+- 🌱 I’m currently learning Solidity
 - 📫 How to reach me https://www.linkedin.com/in/akshay-kudalkar-aa0008229/
 
 <!---
