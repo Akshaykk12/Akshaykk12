@@ -1,3 +1,4 @@
+![logo](https://github.com/Akshaykk12/Akshaykk12/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Akshay Kudalkar</h1>
 <h3 align="center">A passionate Blockchain/ Web3 developer </h3>
 
