@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshaykk12
+- 👋 Hi, I’m Akshay Kudalkar
 - 👀 I’m interested in Blockchain Technology
 - 🌱 I’m currently learning Solidity
 - 📫 How to reach me https://www.linkedin.com/in/akshay-kudalkar-aa0008229/
