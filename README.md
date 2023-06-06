@@ -1,12 +1,11 @@
 ![logo](https://github.com/Akshaykk12/Akshaykk12/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Akshay Kudalkar</h1>
-<h3 align="center">A passionate Blockchain/ Web3 developer </h3>
+<h3 align="center">A passionate UI/ UX designer, Blockchain dev and AI/ML Enthusiast </h3>
 
-<img align= "right" alt="Blockchain" width="400" src="https://imgs.search.brave.com/vwPiY5Ee5rcdeiR7sNwcccu8xpYbMg84hsdRL4GD2qU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly91cGxv/YWRzLXNzbC53ZWJm/bG93LmNvbS81YmIy/MDEyMWNhMmU5NmVl/MDFkYjI5YmMvNWJj/OWM1ZWRmZjNiZWQw/NmUwN2I1YjY0X0VU/SC5naWY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykk12&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykk12" /> </p>
 
-- 🌱 I’m currently learning **Advanced Smart Contract**
+- 🌱 I’m currently learning **Neural Network**
 
 - 💬 Ask me about **web3, UI/UX designing**
 
