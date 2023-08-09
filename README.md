@@ -1,13 +1,13 @@
-![logo](https://github.com/Akshaykk12/Akshaykk12/blob/main/Banner.png)
+![logo](https://github.com/Akshaykk12/Akshaykk12/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Akshay Kudalkar</h1>
-<h3 align="center">A passionate UI/ UX designer, Blockchain dev and AI/ML Enthusiast </h3>
+<h3 align="center">A passionate AI/ML Enthusiast/Dev, UI/ UX designer, Blockchain dev </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykk12&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykk12" /> </p>
 
 - 🌱 I’m currently learning **Neural Network**
 
-- 💬 Ask me about **web3, UI/UX designing**
+- 💬 Ask me about **web3, UI/UX designing, AI, Data Science**
 
 - 📫 How to reach me **akshaykudalkar.12@gmail.com**
 
